@@ -1,0 +1,29 @@
+{
+  "name": "tslint-spellcheck-rules",
+  "version": "0.0.1",
+  "description": "Spell check rules for TSLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tslint",
+    "rules",
+    "custom-rules",
+    "spell",
+    "spell-checker",
+    "tslint-plugin",
+    "lint",
+    "liting",
+    "linter",
+    "typescript"
+  ],
+  "author": "Rong Li",
+  "license": "MIT",
+  "peerDependencies": {
+    "tslint": "^5.0.0"
+  },
+  "dependencies": {
+    "spellchecker": "^3.3.1"
+  }
+}
